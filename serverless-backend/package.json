@@ -13,7 +13,7 @@
   "dependencies": {
     "@metamask/eth-sig-util": "^5.1.0",
     "@openfort/openfort-node": "^0.6.41",
-    "axios": "^1.12.0",
+    "axios": "^1.13.5",
     "ethers": "^5.8.0",
     "playfab-sdk": "^2.129.230623"
   },
